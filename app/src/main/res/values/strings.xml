@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Video Bell</string>
+    <string name="title_channels">Monitored Channels</string>
+    <string name="btn_add_channel">Add Channel</string>
+    <string name="btn_check_now">Check Now</string>
+    <string name="title_settings">Alert Settings</string>
+    <string name="title_history">Alert History</string>
+    <string name="empty_channels">No channels added yet.\nTap \"+ Add Channel\" to track any YouTube channel by link or @handle.</string>
+    <string name="service_active">Background Monitor Active</string>
+    <string name="service_paused">Monitoring Paused</string>
+    <string name="stop_bell">STOP BELL</string>
+    <string name="bell_ringing_banner">🔔 Bell Alert Playing! Tap to Stop</string>
+</resources>
